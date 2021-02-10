@@ -1,0 +1,24 @@
+{
+    "remotePath": "./wp-content/themes/eyor-theme",
+    "host": "krcab.net",
+    "username": "dev@krcab.net",
+    "password": "i9Gpho)[J.G7",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}

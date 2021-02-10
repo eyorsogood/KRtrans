@@ -1,0 +1,10 @@
+.in-mobile .main-nav-header {
+  width: 50px!important;
+}
+.in-mobile .main-nav-header h1 {
+  display: none;
+}
+.in-mobile .main-nav-header .main-nav {
+  display: block;
+  display: none;
+}
